@@ -18,7 +18,9 @@
 - *❓ Ask me about anything related to MERN stack and related technologies*  
   
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" align="left" style="width: 100%" />  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" align="center" style="width: 100%" />
+</div>  
   
 
 <br/>  
@@ -98,6 +100,15 @@
   
 
 <br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mammenmathewz&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mammenmathewz&&style=flat-square" align="center" />
