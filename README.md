@@ -102,16 +102,11 @@
 <br/>  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mammenmathewz&theme=react)
 
-<br />
 
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mammenmathewz&&style=flat-square" align="center" />
-</div>  
-
-<br />
 
 ----
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mammenmathewz&theme=react)
 
 
