@@ -12,7 +12,7 @@
 - *🔭 I’m currently working on Octaview (B2B SaaS)*  
   
 
-- *🌱 I’m currently learning WEBRTC and Kubernetes*  
+- *🌱 I’m currently learning WEBRTC *  
   
 
 - *❓ Ask me about anything related to MERN stack and related technologies*  
