@@ -48,7 +48,7 @@
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
       <h2>About Me</h2>
-      <p>Former sailor-turned-developer, driven by curiosity and a passion for bringing ideas to life through code. With a focus on the MERN stack and clean architecture, I’m dedicated to creating efficient and scalable SaaS solutions.</p>
+      <p>Aspiring sailor-turned-developer, driven by curiosity and a passion for technology. Originally set on a path to the open seas, my fascination with ideas and innovation led me to the world of code. Now, with a focus on the MERN stack and clean architecture, I’m dedicated to building efficient, scalable SaaS solutions that bring ideas to life.</p>
     </td>
   </tr>
 </table>
