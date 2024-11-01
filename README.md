@@ -48,7 +48,7 @@
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
       <h2>About Me</h2>
-      <p>I was all set to navigate the high seas, but my compass had other plans—it pointed straight toward the world of programming! Trading a captain's hat for a dev’s hoodie, I dove into the MERN stack, and now I’m on a mission to sail through code, crafting SaaS solutions that don’t capsize. Turns out, riding waves of data and squashing bugs is just as thrilling as dodging sharks… probably.</p>
+      <p>I was all set to navigate the high seas 🌊, but my compass 🧭 had other plans—it pointed straight toward the world of programming!👨‍💻 Trading a captain's hat 🧢 for a dev’s hoodie , I dove into the MERN stack, and now I’m on a mission to sail through code 🚀, crafting SaaS solutions that don’t capsize. Turns out, riding waves of data 📊 and squashing bugs 🐞 is just as thrilling as dodging sharks… probably. 🦈</p>
     </td>
   </tr>
 </table>
