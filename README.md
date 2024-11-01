@@ -42,11 +42,11 @@
 ----
 
 <div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Your animated GIF description" style="width: 50%;" />
-  <div style="width: 50%; padding: 1em;">
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Your animated GIF description" style="width: 100%;" />
+  </div>
+  <div style=" padding: 1em;">
     **About Me**
-
-    I'm a passionate ... (write about yourself)
   </div>
 </div> 
   
