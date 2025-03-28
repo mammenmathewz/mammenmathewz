@@ -10,7 +10,7 @@
 - *🌐I'm a full-stack developer with a deep focus on the MERN stack*  
   
 
-- *🔭 I’m currently working on [Octaview (B2B SaaS)](octaview.tech)*  
+- *🔭 I’m currently working on <a href="https://octaview.tech" target="_blank">Octaview (B2B SaaS)</a>*  
   
 
 - *🌱 I’m currently learning WEBRTC*  
