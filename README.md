@@ -13,7 +13,7 @@
 - *🔭 I’m currently working on <a href="https://octaview.tech" target="_blank">Octaview (B2B SaaS)</a>*  
   
 
-- *🌱 I’m currently learning WEBRTC*  
+- *🏢 Check out our organization on GitHub: <a href="https://github.com/Octaview-b2b" target="_blank">GitHub Organization OCTAVIEW</a>*  
   
 
 - *❓ Ask me about anything related to MERN stack and related technologies*  
